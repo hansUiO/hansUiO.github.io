@@ -1,2 +1,2 @@
 # hansand02.github.io
-Personlig nettside på kanten mot en upersonlig tulleside
+Nettside satt opp i forbindelse med pub til pub arrangement under fadderuke H22. 
