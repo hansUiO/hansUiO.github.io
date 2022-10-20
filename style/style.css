@@ -1,5 +1,5 @@
 body {
-    background: #FFF;
+    background: #f9f9f9;
     margin: 0;
     padding: 0;
   }
@@ -64,7 +64,8 @@ body {
   table {
     
     /* margin: 20px 10px 10px 0px; */
-    width: 50%;
+    max-width: 800px;
+    width: 70%;
     margin-left: min(40px);
     margin-left: auto;
     margin-right: auto;
