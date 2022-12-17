@@ -1,3 +1,3 @@
-#Personlig eksperimenteringsside
+Personlig eksperimenteringsside
 Nettside satt opp i forbindelse med pub til pub arrangement under fadderuke H22. 
 Turned personlig julekalender for bekjent des 22
